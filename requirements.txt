@@ -1,0 +1,5 @@
+# This project uses only built-in Python libraries.
+# No external dependencies are required.
+
+# Python version requirement
+# python>=3.6
