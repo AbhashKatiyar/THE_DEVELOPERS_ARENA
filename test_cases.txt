@@ -1,31 +1,33 @@
-Case Number 1:
-Name: Abhash Katiyar
-Marks: 123
-Output: Invalid Entry
+Test Case 1
+Input:
+95
+Expected Output:
+Grade: A
+Excellent! Keep up the great work! 🌟
+Result:
+✅ Passed
 
-Case Number 2:
-Name: Abhash Katiyar
-Marks: 95
-Output: Garde:A
+Test Case 2
+Input:
+67
+Expected Output:
+Grade: C
+Good effort! You can do even better! 💪
+Result:
+✅ Passed
 
-Case Number 3:
-Name: Abhash Katiyar
-Marks: 83
-Output: Garde:B
+Test Case 3
+Input:
+-10
+Expected Output:
+Invalid marks entered. Please enter a number between 0 and 100.
+Result:
+✅ Passed
 
-Case Number 4:
-Name: Abhash Katiyar
-Marks: 77
-Output: Garde:C
-
-Case Number 5:
-Name: Abhash Katiyar
-Marks: 61
-Output: Garde:D
-
-Case Number 6:
-Name: Abhash Katiyar
-Marks: any number < 60 (0 to 59)
-Output: Garde:F
-
-Each of the above cases will display a different output accordingly.  
+Test Case 4
+Input:
+120
+Expected Output:
+Invalid marks entered. Please enter a number between 0 and 100.
+Result:
+✅ Passed
