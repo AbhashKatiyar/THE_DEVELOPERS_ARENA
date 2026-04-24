@@ -1,5 +1,5 @@
 # Building a program that takes student marks and returns grade (A, B, C, D and F) with encouraging messages
-
+print("Welcome to the Grade Calculator! 🎓")
 student_name = input("Enter student name: ")
 
 def calculate_grade(marks):
