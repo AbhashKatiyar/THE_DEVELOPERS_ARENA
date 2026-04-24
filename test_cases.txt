@@ -1,0 +1,31 @@
+Case Number 1:
+Name: Abhash Katiyar
+Marks: 123
+Output: Invalid Entry
+
+Case Number 2:
+Name: Abhash Katiyar
+Marks: 95
+Output: Garde:A
+
+Case Number 3:
+Name: Abhash Katiyar
+Marks: 83
+Output: Garde:B
+
+Case Number 4:
+Name: Abhash Katiyar
+Marks: 77
+Output: Garde:C
+
+Case Number 5:
+Name: Abhash Katiyar
+Marks: 61
+Output: Garde:D
+
+Case Number 6:
+Name: Abhash Katiyar
+Marks: any number < 60 (0 to 59)
+Output: Garde:F
+
+Each of the above cases will display a different output accordingly.  
