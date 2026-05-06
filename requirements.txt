@@ -1,1 +1,8 @@
+# Python Version
+python>=3.8
 
+# Data Analysis Library
+pandas>=2.0.0
+
+# Data Visualization Library
+matplotlib>=3.7.0
