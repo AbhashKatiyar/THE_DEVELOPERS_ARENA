@@ -1,0 +1,22 @@
+# =====================================================
+# REQUIREMENTS FILE
+# Customer & Sales Data Analysis Project
+# =====================================================
+
+# Python Version
+python>=3.8
+
+# Data Analysis Library
+pandas>=2.0.0
+
+# Data Visualization Library
+matplotlib>=3.7.0
+
+# Jupyter Notebook Support
+notebook>=7.0.0
+
+# PDF/Notebook Export Support
+nbconvert>=7.0.0
+
+# Optional: PDF export without LaTeX
+pyppeteer>=1.0.2
